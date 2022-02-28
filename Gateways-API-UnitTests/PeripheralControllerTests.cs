@@ -54,7 +54,7 @@ public class PeripheralControllerTests
     var controller = new PeripheralController(myContext);
 
     // Act
-    var result = await controller.GetPeripheral(27);
+    var result = await controller.GetPeripheral(1);
 
     // Assert    
     Assert.NotNull(result.Value);

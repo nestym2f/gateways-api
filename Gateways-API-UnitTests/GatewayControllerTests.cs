@@ -54,7 +54,7 @@ public class GatewayControllerTests
     var controller = new GatewayController(myContext);
 
     // Act
-    var result = await controller.GetGateway(2);
+    var result = await controller.GetGateway(1);
 
     // Assert    
     Assert.NotNull(result.Value);

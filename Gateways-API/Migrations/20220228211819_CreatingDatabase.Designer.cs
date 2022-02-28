@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Gateways.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220227061726_CreatingDatabase")]
+    [Migration("20220228211819_CreatingDatabase")]
     partial class CreatingDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
