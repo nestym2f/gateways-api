@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNp/VQGRHKkTow0ARA9RScZ5lOKTWqKgTLTJFq9PPGYvFPpf8kQRh1SLT6WlE69vXFdyVMj682Z86PgKIvPX2Q==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Works_CSharp\\API-Gateways\\src\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nesty\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Nesty\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.2\\microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

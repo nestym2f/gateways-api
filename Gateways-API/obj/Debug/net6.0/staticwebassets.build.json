@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RruR75z8LdlZePYMCWzUTBPVqSlxD1npJA0RLuVHqu8=",
+  "Source": "Gateways-API",
+  "BasePath": "_content/Gateways-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

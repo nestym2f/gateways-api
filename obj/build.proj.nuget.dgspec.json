@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\Works_CSharp\\API-Gateways\\src\\build.proj": {}
+  },
+  "projects": {
+    "D:\\Work\\Works_CSharp\\API-Gateways\\src\\build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Works_CSharp\\API-Gateways\\src\\build.proj",
+        "projectName": "build",
+        "projectPath": "D:\\Work\\Works_CSharp\\API-Gateways\\src\\build.proj",
+        "packagesPath": "C:\\Users\\Nesty\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Works_CSharp\\API-Gateways\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nesty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
